@@ -2377,6 +2377,18 @@
     "subsection": null
   },
   {
+    "name": "student-deals-lab-data",
+    "url": "https://github.com/theoneysr/student-deals-lab-data",
+    "description": "Filter a source-linked dataset of student software offers",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "Helpful Repositories",
+    "subsection": null
+  },
+  {
     "name": "system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn to design large-scale systems and prepare for interviews",
